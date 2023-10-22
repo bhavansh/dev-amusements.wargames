@@ -1,0 +1,1 @@
+sshpass -p maze0 ssh maze0@maze.labs.overthewire.org -p 2225
